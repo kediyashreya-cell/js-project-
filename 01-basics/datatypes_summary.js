@@ -32,4 +32,6 @@ age: 22,
  const myFunction = function () {
     console.log("Hello world");
 }
-console.log(typeof myFunction);  // output will be function but we call it oject function 
+// console.log(typeof myFunction);
+//   // output will be function but we call it oject function
+ 
